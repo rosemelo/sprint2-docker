@@ -177,7 +177,7 @@ Agora vamos iniciar o docker-compose.yml
 docker-compose up -d
 ```
 
-Para verificar a sua instalação, acesse o localhost com o seu ip e a porta que foi disponibilizada<br>
+Para verificar a sua instalação, acesse o localhost com o seu IP e a porta que foi disponibilizada<br>
 
 Ex.: http://seu-ip:80
 
